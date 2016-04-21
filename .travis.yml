@@ -7,9 +7,7 @@ script:
 notifications:
   email:
     recipients:
-      - joshuajmoody@gmail.com
-      - karl.krukow@xamarin.com
-      - chris.fuentes@xamarin.com
+      - jorge.pena@king.com
     on_success: change
     on_failure: always
 
